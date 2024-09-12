@@ -12,7 +12,7 @@ print((2 * 2 + 2) == 2 * (2 + 2))
 
 print(int(((float('123.456')) * 10)) % 10)
 
-# другое решение 4th program
+# или
 
 print(float('123.456')*10)
 print(int(float('1234.56')))
